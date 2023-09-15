@@ -1,0 +1,41 @@
+header div.logo {
+  width: 1440px;
+  height: 188.19px;
+  background-color: #E6E6E6;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+main section h1 {
+  background-color: #C4C4C4;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+
+section h2.Franja {
+  background-color: #C4C4C4;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: 700;
+}
+
+ul li span.Nombre_info {
+  font-weight: bold;
+  font-style: italic;
+}
+
+section ul li span.ano {
+  font-weight: bold;
+}
+
+footer p {
+  background-color: red;
+  color: #FFFFFF;
+}/*# sourceMappingURL=style.css.map */
